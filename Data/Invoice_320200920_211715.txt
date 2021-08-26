@@ -1,0 +1,5 @@
+Invoice Reference: 3
+Customer Name: SHAMA
+Medicine ID. 3
+Buying Quantity: 3
+	Paid Ammount:15.0 (BDT)
